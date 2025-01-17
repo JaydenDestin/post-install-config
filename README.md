@@ -68,8 +68,8 @@ Access aadmin panel, agents, add new.
  ![IMG_9822](https://github.com/user-attachments/assets/146eb3e0-c22e-49cc-aaa5-9d64392d3ae4)
 
  Access Admin panel, manage, SLA                                        
-Sev-A (Grace Period: 1 hour, Schedule: 24/7)
-Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-A (Grace Period: 1 hour, Schedule: 24/7),
+Sev-B (Grace Period: 4 hours, Schedule: 24/7),
 Sev-C (Grace Period: 8 hours, Business Hours)
 
 </p>
