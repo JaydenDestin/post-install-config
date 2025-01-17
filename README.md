@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - post install configuration </h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This overview outlines the post install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -62,14 +62,32 @@ Access aadmin panel, agents, add new.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+                                                 CONFIGURE SLA
+
+ ![IMG_9822](https://github.com/user-attachments/assets/146eb3e0-c22e-49cc-aaa5-9d64392d3ae4)
+
+ Access Admin panel, manage, SLA                                        
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 hours, Business Hours)
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+                                            CONFIGURE HELP TOPICS
+![IMG_9823](https://github.com/user-attachments/assets/6121d187-570d-4186-9f39-9d5a8189fb5b)
+
+
+Access admin panel, manage, help topics
+
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+Other
+
 </p>
 <br />
