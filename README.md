@@ -83,10 +83,10 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 
 Access admin panel, manage, help topics
 
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
+Business Critical Outage,
+Personal Computer Issues,
+Equipment Request,
+Password Reset,
 Other
 
 </p>
