@@ -29,7 +29,8 @@ This overview outlines the post install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-                                                CONFIGURE ROLES
+                  CONFIGURE ROLES:    
+</p>                            
 
    ![image](https://github.com/user-attachments/assets/7a4db633-a49f-48a4-bcdd-e35c01eccc77)
 ![IMG_9807](https://github.com/user-attachments/assets/f73c1a1b-482a-4481-b0b1-a0403c57734f)
@@ -45,14 +46,17 @@ Access the admin panel and navigate to agents, select roles and create new role:
 <br />
 
 <p>
-
-                                           CONFIGURE AGENTS
+                             CONFIGURE AGENTS:
+</p>
+                                        
 ![IMG_9810](https://github.com/user-attachments/assets/4478b42e-5795-43c8-a2e0-60114f05333b)
 ![IMG_9811](https://github.com/user-attachments/assets/295014f5-4473-44dc-a25b-ee2bbbb4777b)
 
 Access aadmin panel, agents, add new.
                                          
-                                           CONFIGURE USERS
+  <p>
+                   CONFIGURE USERS:       
+</p>                                  
 
  ![IMG_9820](https://github.com/user-attachments/assets/8557ff18-0ccb-46c9-b76e-49ec12b3fd32)
 ![IMG_9821](https://github.com/user-attachments/assets/901d7ef1-6505-41f0-b726-d1f6f9d93ca3)
@@ -60,10 +64,10 @@ Access aadmin panel, agents, add new.
  Access admin panel, users, and add new user.                                       
 
 
-</p>
-<p>
 
-                                                 CONFIGURE SLA
+<p>
+     CONFIGURE SLA:
+ </p>                                               
 
  ![IMG_9822](https://github.com/user-attachments/assets/146eb3e0-c22e-49cc-aaa5-9d64392d3ae4)
 
@@ -76,8 +80,10 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 <br />
 
 <p>
+              CONFIGURE HELP TOPICS:        
+</p>
 
-                                            CONFIGURE HELP TOPICS
+                                          
 ![IMG_9823](https://github.com/user-attachments/assets/6121d187-570d-4186-9f39-9d5a8189fb5b)
 
 
